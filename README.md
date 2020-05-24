@@ -1,5 +1,5 @@
 # nope
 The Programming Language NOPE.
 # Release Notes
-v1.0<br />
+<h2>v1.</h2>0<br />
 Original Release.
